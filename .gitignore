@@ -1,3 +1,5 @@
 data
 model
 venv
+.ipynb_checkpoints
+dataset
